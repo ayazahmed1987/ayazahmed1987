@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ayazahmed1987/ayazahmed1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,14 +15,14 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Ayaz Ahmed</h1>
-<h3 align="center">A Skilled Web Developer & UI/UX Designer</h3>
+<h3 align="center">A Skilled Web Full Stack Developer</h3>
 
 ---
 
 ### 📌 About Me:
 
 - 🔧 I am a skilled web developer and designer with expertise in custom website development.
-- 💻 I build websites using **HTML, CSS, Bootstrap, WordPress, and Magento**.
+- 💻 I build websites using **HTML, PHP, Laravel, CSS, Bootstrap, WordPress, and Magento**.
 - 🎨 I design modern, user-friendly web and app interfaces using **Adobe Illustrator, and Photoshop**.
 - 🧠 I focus on both functionality and aesthetics to create responsive, visually appealing digital experiences.
 
